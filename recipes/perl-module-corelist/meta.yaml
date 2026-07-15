@@ -1,6 +1,6 @@
 {% set name = "perl-module-corelist" %}
-{% set version = "5.20250923" %}
-{% set sha256 = "af0530a991b86a309a946922e2125994b3633449f2d690d51761528285befeec" %}
+{% set version = "5.20260601" %}
+{% set sha256 = "b3c70d3e868c3cd230f558c4d2774bfd56777c9d4c1414867ef8bd28b9be7496" %}
 
 package:
   name: {{ name }}
